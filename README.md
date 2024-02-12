@@ -1,1 +1,1 @@
-# README
+A Self-Taught Software Developer
